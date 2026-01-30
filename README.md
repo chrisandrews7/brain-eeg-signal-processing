@@ -9,6 +9,8 @@ Complete with algorithms for detecting the following artifacts inside the sample
 
 Algorithms and analysis are found in [notebook.ipynb](notebook.ipynb)
 
+![Example artifact detection](images/example.png)
+
 ## Installation
 
 - Install [uv](https://github.com/astral-sh/uv) package manager.
